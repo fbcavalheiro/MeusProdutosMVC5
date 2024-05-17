@@ -1,0 +1,16 @@
+C:\Estudo\Projects\MeusProdutosMVC5\src\DevIO.Infra\bin\Debug\DevIO.Infra.dll.config
+C:\Estudo\Projects\MeusProdutosMVC5\src\DevIO.Infra\bin\Debug\DevIO.Infra.dll
+C:\Estudo\Projects\MeusProdutosMVC5\src\DevIO.Infra\bin\Debug\DevIO.Infra.pdb
+C:\Estudo\Projects\MeusProdutosMVC5\src\DevIO.Infra\bin\Debug\DevIO.Business.dll
+C:\Estudo\Projects\MeusProdutosMVC5\src\DevIO.Infra\bin\Debug\EntityFramework.dll
+C:\Estudo\Projects\MeusProdutosMVC5\src\DevIO.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Estudo\Projects\MeusProdutosMVC5\src\DevIO.Infra\bin\Debug\FluentValidation.dll
+C:\Estudo\Projects\MeusProdutosMVC5\src\DevIO.Infra\bin\Debug\DevIO.Business.pdb
+C:\Estudo\Projects\MeusProdutosMVC5\src\DevIO.Infra\bin\Debug\EntityFramework.xml
+C:\Estudo\Projects\MeusProdutosMVC5\src\DevIO.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Estudo\Projects\MeusProdutosMVC5\src\DevIO.Infra\bin\Debug\FluentValidation.xml
+C:\Estudo\Projects\MeusProdutosMVC5\src\DevIO.Infra\obj\Debug\DevIO.Infra.csproj.AssemblyReference.cache
+C:\Estudo\Projects\MeusProdutosMVC5\src\DevIO.Infra\obj\Debug\DevIO.Infra.csproj.CoreCompileInputs.cache
+C:\Estudo\Projects\MeusProdutosMVC5\src\DevIO.Infra\obj\Debug\DevIO.Infra.csproj.CopyComplete
+C:\Estudo\Projects\MeusProdutosMVC5\src\DevIO.Infra\obj\Debug\DevIO.Infra.dll
+C:\Estudo\Projects\MeusProdutosMVC5\src\DevIO.Infra\obj\Debug\DevIO.Infra.pdb
